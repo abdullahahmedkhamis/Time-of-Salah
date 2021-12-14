@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Azan</string>
+    <string name="hello_true_azan_time">Hello True Azan Time</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string> <!-- Azan Api Time -->
+</resources>
